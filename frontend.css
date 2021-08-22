@@ -15,7 +15,7 @@ color: whitesmoke;
 }
 .section2{
   
-  margin-left:30%;
+  margin-left:20%;
   
 }
 .footer{
@@ -34,7 +34,7 @@ color: whitesmoke;
   /* Float four columns side by side */
   .column {
     float: left;
-    width: 30%;
+    width: 40%;
     padding: 0 10px;
   }
   
@@ -56,14 +56,3 @@ color: whitesmoke;
     background-color: #f1f1f1;
   }
   
-  /* Responsive columns - one column layout (vertical) on small screens */
-  @media screen and (max-width: 600px) {
-    .column {
-      width: 100%;
-      display: block;
-      margin-bottom: 20px;
-    }
-  }
-  input, textarea{
-      width: 100%;
-  }
