@@ -5,7 +5,7 @@ include ('validate.php');
 <!DOCTYPE html>
 <html>
 <head>
-    <title>stage 2 task</title>
+    <title>stage 2 task 2</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
